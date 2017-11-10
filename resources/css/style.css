@@ -4,17 +4,34 @@ body {
   text-align: center;
 }
 
-h1 {
+#head {
   font-weight: normal;
   font-size: 50px;
   color: white;
 }
 
-a {
+.guide {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.download {
   color: Aquamarine;
   font-size: 16px;
 }
 
-.copyright {
+#symbol {
   text-align: right;
+  color: gray;
+  font-size: 21px;
+}
+
+#middle p {
+  color: white;
+}
+
+#description {
+  color: gray;
+  font-size: 21px
 }
